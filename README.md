@@ -1,5 +1,5 @@
 # Class Activity 1 part one
-
+## Contributor: Clayton Franklin
 Welcome to CS 491 - Testing and DevOps! Your first assignment is outlined below:
 
 ### Problem 1
